@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/a1/45/05/a14505bcd932a29fcc6c24a59402b240.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+.titulo-1{
+    color: blueviolet;
+    font-size: 100px;
+    font-weight: 400;
+    font-family: fantasy;
+    font-variant: inherit;
+}
+.button-1{
+    color:rgb(76, 108, 115);
+    font-size: 40px;
+    font-family: fantasy;
+    font-variant: small-caps;
+}
+.bodynew{
+    background-image: url(https://t4.ftcdn.net/jpg/02/75/92/41/360_F_275924184_GP4ACV80EK8NokxlFaUB2qykpXKrroqx.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+.button-2{
+    color:rgb(76, 108, 115);
+    font-size: 40px;
+    font-family: fantasy;
+    font-variant: small-caps;
+}
+.titulo-2{
+    color: rgb(83, 30, 133);
+    font-size: 100px;
+    font-weight: 400;
+    font-family: fantasy;
+    font-variant: inherit;
+}
+.contenido-1{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: 400;
+    font-family: fantasy;
+    font-variant: inherit;
+}
+.contenido-2{
+    color: rgb(36, 29, 29);
+    font-size: 50px;
+    font-weight: 400;
+    font-family: fantasy;
+    font-variant: inherit;
+}
+.parrafo{
+    color: rgb(113, 113, 134);
+    background-color: rgb(212, 220, 228);
+    font-size: 60px;
+    font-weight: 400;
+    font-family: fantasy;
+    font-variant: inherit;
+}
+tr{
+    color: rgb(26, 25, 25);
+}
